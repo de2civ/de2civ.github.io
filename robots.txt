@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://de2civ.github.io/sitemap/sitemap.txt
